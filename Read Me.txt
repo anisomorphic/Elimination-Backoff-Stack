@@ -1,0 +1,13 @@
+Hello, each problem solution is done in Java 8. 
+
+To compile & run, please navigate a terminal window to each problem directory.
+
+The combined terminal command
+
+
+	javac *.java && java Driver
+	
+	
+Can be used in each directory to compile and run the program. By default,
+each program will launch with 32 threads and print how long in ms it took
+for each thread to complete.
